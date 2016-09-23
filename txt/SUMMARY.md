@@ -4,8 +4,20 @@ Este es el índice del libro.
 
 * [GitBook](GitBook/README.md)
     * [¿Qué es?](GitBook/¿Qué es?.md)
+    ~~~
+      GitBook es una herramiento para crear documentación de proyectos y libros técnicos
+      ~~~
     * [¿Cómo se utiliza?](GitBook/¿Cómo se utiliza?.md)
+      ~~~
+      Se trabaja, utilizando Markdown y Github.
+      ~~~
     * [Como desplegar un libro](GitBook/como desplegar un libro.md)
+    ~~~
+      PASO 0: Hay que tener instalado node.js
+      PASO 1: Crear con el comando mkdir un directorio gitbook donde trabajar:
+       $ mkdir /PATH/TO/gitbook
+       $ cd /PATH/TO/gitbook
+       ~~~
 
 * [Gh-pages](Gh-pages/README.md)
     * [¿Qué son?](Gh-pages/¿Qué son?.md)

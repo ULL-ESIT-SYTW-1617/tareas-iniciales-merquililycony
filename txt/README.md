@@ -1,6 +1,6 @@
-# Book Title
+# Tareas iniciales
 
-> Book introduction here.
+> Guía de como se realizó la práctica 1 " Tareas iniciales".
 
 ## Live Demo
 
@@ -14,4 +14,3 @@
 
 1. Create Issue
 2. Fork and PR
-
