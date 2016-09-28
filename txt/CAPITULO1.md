@@ -6,8 +6,7 @@
   ~~~
   Se trabaja, utilizando Markdown y Github.
   ~~~
-* [Como desplegar un libro]
-~~~
+  ~~~
   PASO 0: Hay que tener instalado node.js
   PASO 1: Crear con el comando mkdir un directorio gitbook donde trabajar:
      $ mkdir /PATH/TO/gitbook
@@ -29,6 +28,31 @@
     NOTA:
     GitBook permite probar el libro antes de empujarlo a la web con el comando:
       $ gitbook serve
+
+  ~~~
+* [Como desplegar un libro]
+~~~
+  PASO 1: Crear un nuevo fichero llamado
+   .gitignore en /PATH/TO/gitbook
+    y pegar en el lo siguiente:
+    # Node rules:
+## Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
+.grunt
+
+## Dependency directory
+## Commenting this out is preferred by some people, see
+## https://docs.npmjs.com/misc/faq#should-i-check-my-node_modules-folder-into-git
+node_modules/
+
+# Book build output
+_book/
+
+# eBook build output
+*.epub
+*.mobi
+*.pdf
+
+PASO 2: Ahora se hace un push en el repositorio que has elegido
 
 
    ~~~

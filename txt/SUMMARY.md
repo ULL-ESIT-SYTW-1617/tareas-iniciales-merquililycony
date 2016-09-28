@@ -2,22 +2,24 @@
 
 Este es el índice del libro.
 
-* [GitBook](GitBook/README.md)
+* [GitBook](GitBook/CAPITULO1.md)
+    * [¿Qué es?]
+    * [¿Cómo se utiliza?]
+    * [Como desplegar un libro]
 
-
-* [Gh-pages](Gh-pages/README.md)
-    * [¿Qué son?](Gh-pages/¿Qué son?.md)
-    * [¿Cómo se utiliza?](Gh-pages/¿Cómo se utiliza?.md)
-    * [Como utilizar el módulo gh-pages para automatizar el despliegue](Gh-pages/Como utilizar el módulo gh-pages para automatizar el despliegue.md)
-    * [NodeJS](NodeJS/README.md)
-        * [¿Qué es?](NodeJS/¿Qué es?.md)
-        * [¿Cómo funciona?](NodeJS/¿Cómo funciona?.md)
-    * [Npm](Npm/README.md)
-        * [¿Qué es?](Npm/¿Qué es?.md)
-        * [¿Cómo funciona?](Npm/¿Cómo funciona?.md)  
-    * [Package.json](Package.json/README.md)
-        * [¿Qué es?](Package.json/¿Qué es?.md)
-        * [¿Cómo funciona?](Package.json/¿Cómo funciona?.md)
-    * [Gulpfile](Gulpfile/README.md)
-        * [¿Qué es?](Gulpfile/¿Qué es?.md)
-        * [¿Cómo funciona?](Gulpfile/¿Cómo funciona?.md)
+* [Gh-pages](GitBook/CAPITULO2.md)
+    * [¿Qué son?]
+    * [¿Cómo se utiliza?]
+    * [Como utilizar el módulo gh-pages para automatizar el despliegue]
+    * [NodeJS](GitBook/CAPITULO3.md)
+        * [¿Qué es?]
+        * [¿Cómo funciona?]
+    * [Npm](GitBook/CAPITULO4.md)
+        * [¿Qué es?]
+        * [¿Cómo funciona?]
+    * [Package.json](GitBook/CAPITULO5.md)
+        * [¿Qué es?]
+        * [¿Cómo funciona?]
+    * [Gulpfile](GitBook/CAPITULO6.md)
+        * [¿Qué es?]
+        * [¿Cómo funciona?]
