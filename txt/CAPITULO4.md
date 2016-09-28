@@ -8,6 +8,6 @@ Npm es un instalador de paquetes por defecto para Node.js
 ~~~
 Para utilizarlo, basta con poner el comando:
   $ npm install paquete
-Mas informacion de los comandos :
 ~~~
-*(https://docs.npmjs.com/cli/install)
+![Comandos](https://github.com/ULL-ESIT-SYTW-1617/tareas-iniciales-merquililycony/tree/master/txt/npm.jpg)
+[Más información](https://docs.npmjs.com/cli/install)
