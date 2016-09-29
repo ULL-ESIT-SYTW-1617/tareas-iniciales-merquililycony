@@ -3,8 +3,6 @@
 # Práctica 1 : Tareas Iniciales. JavaScript. NodeJS. Gulpfile. Gitbook
 
 # Enlaces :
-![gif](/assets/images/ejemplo.gif)
-
 
 **Enlace al campus virtual**
 
