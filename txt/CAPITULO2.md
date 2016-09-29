@@ -1,4 +1,4 @@
-* [¿Qué son?]
+* [¿Qué es GitHub Pages?]
 ~~~
     GitHub Pages es un servicio de alojamiento web estática. Está diseñado diseñado para alojar sus páginas personales, organización o del    proyecto directamente desde un repositorio GitHub.
 ~~~
