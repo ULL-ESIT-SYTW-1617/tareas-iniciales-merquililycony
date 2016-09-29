@@ -1,27 +1,26 @@
 # GitBook Boilerplate
 
-# Installation
+# Práctica 1 : Tareas Iniciales. JavaScript. NodeJS. Gulpfile. Gitbook
 
-```shell
-cd ~/code
+# Enlaces :
+![gif](/assets/images/ejemplo.gif)
 
-git clone https://github.com/enten/gitbook-boilerplate.git awesome-project
 
-cd awesome-project
+**Enlace al campus virtual**
 
-rm -fr .git
+* [Enunciado] (https://crguezl.github.io/ull-esit-1617/practicas/practicagitbook.html)
 
-vi package.json
-# edit repository.url and repository.wiki
+**Repositorio GitHuB donde se realizó la práctica**
 
-git remote add origin <url>
+* [Organización](https://github.com/ULL-ESIT-SYTW-1617/tareas-iniciales-merquililycony)
 
-npm run build
-# or
-# npm run generate-gitbook && npm run generate-wiki
+*
+**Página de los autores**
 
-npm run deploy
-# or
-# npm run deploy-gitbook && npm run deploy-wiki
-```
+* [Constanza](http://alu0100673647.github.io)
+* [Merquis]()
+* [Liliana]()
+
+
+
 __Important__: Wiki must be created on Github
