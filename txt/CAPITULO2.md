@@ -41,3 +41,11 @@
 
 
 * [Como utilizar el módulo gh-pages para automatizar el despliegue]
+
+~~~
+        Creación de páginas con el generador automático
+    Puede utilizar Generador automático de página GitHub para crear rápidamente un único sitio web de página para un proyecto, usuario u     organización.
+
+    El generador automático de página está diseñada para crear sitios web de una sola página. Si usted está interesado en la construcción de un sitio web de varias páginas, se recomienda utilizar Jekyll . Para agregar varias páginas a su sitio automatizado generador de la página como una solución, puede intentar copiar el index.htmlarchivo en la raíz de su repositorio y editarlo como plantilla para otras páginas web. Esta solución requiere cierta familiaridad con el lenguaje HTML.
+
+~~~
