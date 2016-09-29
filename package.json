@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/enten/gitbook-boilerplate.git",
+    "url": "git+https://github.com/enten/gitbook-boilerplate.git",
     "wiki": "https://github.com/enten/gitbook-boilerplate.wiki.git"
   },
   "keywords": [
@@ -33,7 +33,10 @@
     "async": "^1.4.0",
     "fs-extra": "^0.22.1",
     "gh-pages": "^0.3.1",
+    "gitbook": "^2.1.0",
     "gitbook-cli": "^0.3.4",
-    "gitbook": "^2.1.0"
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-uglify": "^2.0.0"
   }
 }

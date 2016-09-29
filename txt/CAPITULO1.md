@@ -1,4 +1,4 @@
-* [¿Qué es?]
+* [¿Qué es GitBook?]
 ~~~
   GitBook es una herramiento para crear documentación de proyectos y libros técnicos
   ~~~
