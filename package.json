@@ -15,8 +15,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/enten/gitbook-boilerplate.git",
-    "wiki": "https://github.com/enten/gitbook-boilerplate.wiki.git"
+    "url": "git+https://github.com/ULL-ESIT-SYTW-1617/tareas-iniciales-merquililycony.git",
+    "wiki": "https://github.com/ULL-ESIT-SYTW-1617/tareas-iniciales-merquililycony.wiki.git"
   },
   "keywords": [
     "gitbook",

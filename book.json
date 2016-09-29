@@ -1,15 +1,8 @@
-{
-    "plugins": ["youtube"]
 
-
-}
 {
-    "plugins": [
-        "hypercomments"
-    ],
-    "pluginsConfig": {
-        "hypercomments": {
-            "wid": XXXXX
-        }
-    }
+    "title": "Practica 1, Tareas iniciales",
+    "author": "Merquis, Liliana, Constanza",
+    "language": "es",
+    "plugins": ["youtube"],
+    "root": "txt"
 }
