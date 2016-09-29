@@ -11,15 +11,12 @@ Este es el índice del libro.
     * [¿Qué son?]
     * [¿Cómo se utiliza?]
     * [Como utilizar el módulo gh-pages para automatizar el despliegue]
-    * [NodeJS](GitBook/CAPITULO3.md)
-        * [¿Qué es?]
-        * [¿Cómo funciona?]
-    * [Npm](GitBook/CAPITULO4.md)
-        * [¿Qué es?]
-        * [¿Cómo funciona?]
-    * [Package.json](GitBook/CAPITULO5.md)
-        * [¿Qué es?]
-        * [¿Cómo funciona?]
-    * [Gulpfile](GitBook/CAPITULO6.md)
-        * [¿Qué es?]
-        * [¿Cómo funciona?]
+
+* [NodeJS, npm y package.json](GitBook/CAPITULO3.md)
+    * [¿Qué es?]
+    * [¿Qué es npm?]
+    * [¿Qué es package.json?]
+
+* [Gulpfile](GitBook/CAPITULO4.md)
+    * [¿Qué es?]
+    * [¿Cómo funciona?]
