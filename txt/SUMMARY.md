@@ -1,6 +1,5 @@
 # Índice
 
-Este es el índice del libro.
 
 * [GitBook](GitBook/CAPITULO1.md)
     * [¿Qué es?]
@@ -13,7 +12,7 @@ Este es el índice del libro.
     * [Como utilizar el módulo gh-pages para automatizar el despliegue]
 
 * [NodeJS, npm y package.json](GitBook/CAPITULO3.md)
-    * [¿Qué es?]
+    * [¿Qué es NodeJS?]
     * [¿Qué es npm?]
     * [¿Qué es package.json?]
 
