@@ -1,0 +1,15 @@
+{
+    "plugins": ["youtube"]
+
+
+}
+{
+    "plugins": [
+        "hypercomments"
+    ],
+    "pluginsConfig": {
+        "hypercomments": {
+            "wid": XXXXX
+        }
+    }
+}
