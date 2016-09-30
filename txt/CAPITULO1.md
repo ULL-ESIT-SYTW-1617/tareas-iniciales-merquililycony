@@ -1,4 +1,4 @@
-* [¿Qué es GitBook?]
+#¿Qué es GitBook?
 ~~~
   GitBook es una herramiento para crear documentación de proyectos y libros técnicos
   ~~~
@@ -55,4 +55,4 @@ _book/
 PASO 2: Ahora se hace un push en el repositorio que has elegido
    ~~~
 
-   {% youtube %}https://www.youtube.com/watch?v=kdpfRLpu0FQ{% endyoutube %}
+  {% youtube %}https://www.youtube.com/watch?v=kdpfRLpu0FQ{% endyoutube %}

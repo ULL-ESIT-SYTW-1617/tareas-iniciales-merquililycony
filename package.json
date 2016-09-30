@@ -36,7 +36,5 @@
     "gitbook": "^2.1.0",
     "gitbook-cli": "^0.3.4",
     "gulp": "^3.9.1",
-    "gulp-concat": "^2.6.0",
-    "gulp-uglify": "^2.0.0"
   }
 }
