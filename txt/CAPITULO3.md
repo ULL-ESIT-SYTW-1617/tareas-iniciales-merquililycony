@@ -10,7 +10,7 @@
   o descargar programas de js. En mi caso lo descubrí porque quiero empezar a desarrollar en node.js con TDD o BDD 
   (mejor) y buscando encontré una librería para hacer BDD con node.js.
   ~~~
-  ![Comandos](https://github.com/ULL-ESIT-SYTW-1617/tareas-iniciales-merquililycony/tree/master/txt/npm.jpg)
+  ![Comandos](https://github.com/ULL-ESIT-SYTW-1617/tareas-iniciales-merquililycony/blob/master/txt/npm.jpg)
   [Más información](https://docs.npmjs.com/cli/install)
 * [¿Qué es package.json?]
 ~~~
