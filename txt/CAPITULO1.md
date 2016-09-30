@@ -53,6 +53,6 @@ _book/
 *.pdf
 
 PASO 2: Ahora se hace un push en el repositorio que has elegido
-
-
    ~~~
+
+   {% youtube %}https://www.youtube.com/watch?v=kdpfRLpu0FQ{% endyoutube %}
