@@ -17,7 +17,7 @@
 * [gh-pages](https://ull-esit-sytw-1617.github.io/tareas-iniciales-merquililycony/)
 
 
-*
+
 **Página de los autores**
 
 * [Constanza](http://alu0100673647.github.io)

@@ -1,20 +1,27 @@
 #¿Qué es GitBook?
-~~~
-  GitBook es una herramiento para crear documentación de proyectos y libros técnicos
+
+  *GitBook es una herramiento para crear documentación de proyectos y libros técnicos*
+
+##[¿Cómo se utiliza?]
+
+  *Se trabaja, utilizando Markdown y Github.*
+
+  ##PASO 0: Hay que tener instalado node.js
+  ##PASO 1: Crear con el comando mkdir un directorio gitbook donde trabajar:
   ~~~
-* [¿Cómo se utiliza?]
-  ~~~
-  Se trabaja, utilizando Markdown y Github.
-  ~~~
-  ~~~
-  PASO 0: Hay que tener instalado node.js
-  PASO 1: Crear con el comando mkdir un directorio gitbook donde trabajar:
      $ mkdir /PATH/TO/gitbook
      $ cd /PATH/TO/gitbook
-   PASO 2: Ahora se necesita crear el package.json
+  ~~~
+
+   ##PASO 2: Ahora se necesita crear el package.json
+   ~~~
     $ npm init
-   No se necesita responder a las preguntas que el comando anterior pregunte, solo precionar enter. La información necesitar se inyectara en el archivo package.json mediante el siguiente comando:
+    ~~~
+  ##**Nota
+   No se necesita responder a las preguntas que el comando anterior pregunte, solo precionar enter. La información necesitar se inyectara en el archivo package.json mediante el siguiente comando:**
+   ~~~
     $ npm install -g gitbook-cli --save
+  ~~~
     PASO 3: Iniciar GitBook
       $ gitbook init
     PASO 4: Ficheros en el directorio de tu gitbook.
@@ -55,4 +62,5 @@ _book/
 PASO 2: Ahora se hace un push en el repositorio que has elegido
    ~~~
 
-  {% youtube %}https://www.youtube.com/watch?v=kdpfRLpu0FQ{% endyoutube %}
+  {% youtube %}https://www.youtube.com/watch?v=kdpfRLpu0FQ
+  {% endyoutube %}
