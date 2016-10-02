@@ -26,20 +26,14 @@
       $ gitbook init
     ~~~
 
-    ~~~
-      $ gitbook serve
-    ~~~
-#Como desplegar un libro
-
-  *PASO 1: Crear un nuevo fichero llamado
-    NOTA:
-    GitBook permite probar el libro antes de empujarlo a la web con el comando:*
+    **NOTA:
+    GitBook permite probar el libro antes de empujarlo a la web con el comando:**
     ~~~
       $ gitbook serve
     ~~~
 #¿Como desplegar un libro?
 
-  *PASO 1: Crear un nuevo fichero llamado*
+  *PASO 1: Crear un nuevo fichero llamado book.js*
   ~~~
     # Node rules:
     ### Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files).grunt
