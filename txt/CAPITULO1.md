@@ -6,8 +6,9 @@
 
   *Se trabaja, utilizando Markdown y Github.*
 
-  *PASO 0: Hay que tener instalado node.js
-  PASO 1: Crear con el comando mkdir un directorio gitbook donde trabajar:*
+  *PASO 0: Hay que tener instalado node.js*
+
+  *PASO 1: Crear con el comando mkdir un directorio gitbook donde trabajar:*
   ~~~
      $ mkdir /PATH/TO/gitbook
      $ cd /PATH/TO/gitbook
