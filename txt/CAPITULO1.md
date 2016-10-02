@@ -14,9 +14,9 @@
      $ cd /PATH/TO/gitbook
   ~~~
    *PASO 2: Ahora se necesita crear el package.json*
-    ~~~
-      $ npm init
-    ~~~
+  ~~~
+    $ npm init
+  ~~~
 
   *No se necesita responder a las preguntas que el comando anterior pregunte, solo precionar enter. La información necesitar se inyectara en el archivo package.json mediante el siguiente comando:*
   ~~~
