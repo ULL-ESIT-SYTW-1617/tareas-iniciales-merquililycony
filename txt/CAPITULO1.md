@@ -14,7 +14,7 @@
   ~~~
    *PASO 2: Ahora se necesita crear el package.json*
     ~~~
-    $ npm init
+      $ npm init
     ~~~
 
   *No se necesita responder a las preguntas que el comando anterior pregunte, solo precionar enter. La información necesitar se inyectara en el archivo package.json mediante el siguiente comando:*
@@ -24,42 +24,34 @@
     *PASO 3: Iniciar GitBook*
     ~~~
       $ gitbook init
-      ~~~
+    ~~~
 
     ~~~
       $ gitbook serve
-
-  ~~~
+    ~~~
 #Como desplegar un libro
 
   *PASO 1: Crear un nuevo fichero llamado
     NOTA:
     GitBook permite probar el libro antes de empujarlo a la web con el comando:*
-~~~
+    ~~~
       $ gitbook serve
-
-  ~~~
+    ~~~
 #¿Como desplegar un libro?
 
   *PASO 1: Crear un nuevo fichero llamado*
-    ~~~
-  # Node rules:
-### Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
-.grunt
-
-### Dependency directory
-### Commenting this out is preferred by some people, see
-### https://docs.npmjs.com/misc/faq#should-i-check-my-node_modules-folder-into-git
-node_modules/
-
-### Book build output
-_book/
-
-### eBook build output
-*.epub
-*.mobi
-*.pdf
-~~~
+  ~~~
+    # Node rules:
+    ### Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files).grunt
+    ### Dependency directory
+    ### Commenting this out is preferred by some people, see
+    ### https://docs.npmjs.com/misc/faq#should-i-check-my-node_modules-folder-into-git node_modules/
+    ### Book build output _book/
+    ### eBook build output
+    *.epub
+    *.mobi
+    *.pdf
+  ~~~
 *PASO 2: Ahora se hace un push en el repositorio que has elegido*
-
+* [Pasos]
 {% youtube %}https://www.youtube.com/watch?v=kdpfRLpu0FQ {% endyoutube %}
