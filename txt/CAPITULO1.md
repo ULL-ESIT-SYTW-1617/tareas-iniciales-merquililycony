@@ -23,15 +23,15 @@
     $ npm install -g gitbook-cli --save
   ~~~
     *PASO 3: Iniciar GitBook*
-    ~~~
-      $ gitbook init
-    ~~~
+  ~~~
+    $ gitbook init
+  ~~~
 
     **NOTA:
     GitBook permite probar el libro antes de empujarlo a la web con el comando:**
-    ~~~
-      $ gitbook serve
-    ~~~
+  ~~~
+    $ gitbook serve
+  ~~~
 #¿Como desplegar un libro?
 
   *PASO 1: Crear un nuevo fichero llamado book.js*
