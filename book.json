@@ -3,6 +3,6 @@
     "title": "Practica 1, Tareas iniciales",
     "author": "Merquis, Liliana, Constanza",
     "language": "es",
-     plugins : ["youtube"],
+     "plugins" : ["youtube"],
     "root": "txt"
 }
