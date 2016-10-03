@@ -11,7 +11,7 @@
     * [¿Cómo se utiliza?](CAPITULO2.md#2-2)
     * [Como utilizar el módulo gh-pages para automatizar el despliegue](CAPITULO2.md#2-3)
 
-* [3.NodeJS, npm y package.json](CAPITULO3)
+* [3.NodeJS, npm y package.json](CAPITULO3.md)
     * [¿Qué es NodeJS?](CAPITULO3.md#3-1)
     * [¿Qué es npm?](CAPITULO3.md#3-2)
     * [¿Qué es package.json?](CAPITULO3.md#3-3)

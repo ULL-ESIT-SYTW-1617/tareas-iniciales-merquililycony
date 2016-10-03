@@ -1,9 +1,9 @@
 #¿Qué es GH-Pages?
-
+######2-1
     *GH-pages es un servicio de alojamiento web estático de Github que nos permite desplegar nuestro sitio web.*
 
 #¿Cómo se utiliza?
-
+######2-2
     *Se puede almacenar cualquier código que se desee en un repositorio de Github, pero para usar la característica páginas
     de Github con  pleno efecto, el código debe estar estructurado como un sitio web típico, por ejemplo que el punto de entrada
     primario sea un archivo     HTML llamado index.html.*
@@ -38,7 +38,7 @@
   5. Navega tu dirección web de GitHub pages en un nuevo navegador, y deberia verse tu sitio en linea.*
 
 #Como utilizar el módulo gh-pages para automatizar el despliegue
-
+######2-3
     *Creación de páginas con el generador automático
     Puede utilizar Generador automático de página GitHub para crear rápidamente un único sitio web de página para un proyecto, usuario u     organización.*
 
