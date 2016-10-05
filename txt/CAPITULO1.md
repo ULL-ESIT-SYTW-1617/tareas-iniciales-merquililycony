@@ -1,9 +1,9 @@
 
 #¿Qué es GitBook?
-
+######1-1
   *GitBook es una herramiento para crear documentación de proyectos y libros técnicos*
 #¿Cómo se utiliza?
-
+######1-2
   *Se trabaja, utilizando Markdown y Github.*
 
   *PASO 0: Hay que tener instalado node.js*
@@ -32,7 +32,8 @@
   ~~~
     $ gitbook serve
   ~~~
-#¿Como desplegar un libro?
+#¿Cómo desplegar un libro?
+######1-3
 
   *PASO 1: Crear un nuevo fichero llamado book.js*
   ~~~
