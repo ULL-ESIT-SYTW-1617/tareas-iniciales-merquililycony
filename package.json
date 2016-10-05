@@ -36,5 +36,11 @@
     "gitbook": "^2.1.0",
     "gitbook-cli": "^0.3.4",
     "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "gulp-concat": "^2.6.0",
+    "gitbook-plugin-youtube": "^1.1.0",
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^2.0.0"
   }
 }
