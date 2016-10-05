@@ -1,6 +1,8 @@
 # Guía para la práctica 2
-* [enlace](https://medium.com/@peraferrer/como-crear-un-m%C3%B3dulo-npm-6baef161a96#.o9hgi9mj1)
-*En la carpeta npm-pkg se desarrollara el pquete*
+
+*En la carpeta* **npm-pkg** *se desarrollara el paquete*
+* [enlace para consulta ](https://medium.com/@peraferrer/como-crear-un-m%C3%B3dulo-npm-6baef161a96#.o9hgi9mj1)
+
 
 * **bin**:
   * carpeta que contiene los archivos que exponen las funciones que podremos ejecutar desde la línea de comandos del cliente NPM. Para nuestro ejemplo no lo vamos a utilizar.
