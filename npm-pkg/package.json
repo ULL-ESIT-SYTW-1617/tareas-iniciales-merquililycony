@@ -2,10 +2,13 @@
   "name": "npm-pkg",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "./lib/npm-pkg",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
 }
