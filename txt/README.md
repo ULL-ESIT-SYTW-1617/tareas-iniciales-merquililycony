@@ -2,6 +2,12 @@
 
 > Guía de como se realizó la práctica 1 " Tareas iniciales".
 
+Hola
+
+
+Hola
+
+
 ## Live Demo
 
 [Check demo!](http://my-user.github.io/my-repo)

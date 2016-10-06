@@ -3,4 +3,4 @@
 CMDDESC="Generate GitBook"
 
 #./node_modules/.bin/gitbook 
- gitbook build `pwd` ./gh-pages
+gitbook build `pwd` ./gh-pages
