@@ -4,5 +4,5 @@
     "author": "Merquis, Liliana, Constanza",
     "language": "es",
     "plugins" : ["youtube"],
-    "root": "./txt"
+    "root": "txt"
 }
