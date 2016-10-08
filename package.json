@@ -4,7 +4,7 @@
   "description": "GitBook Boilerplate",
   "main": "index.js",
   "scripts": {
-    "generate-gitbook": "./node_modules/gitbook-cli/bin/gitbook.js build `pwd` ./gh-pages",
+    "generate-gitbook": "./scripts/losh generate-gitbook",
     "generate-wiki": "./scripts/losh generate-wiki",
     "build": "npm install && npm i gitbook-cli && npm run generate-gitbook && npm run generate-wiki",
     "deploy-gitbook": "./scripts/losh deploy-gitbook",
@@ -41,7 +41,7 @@
   "dependencies": {
     "gulp-concat": "^2.6.0",
     "gitbook-plugin-youtube": "^1.1.0",
-    "gulp-uglify": "^2.0.0"    
+    "gulp-uglify": "^2.0.0"
 
   }
 }
