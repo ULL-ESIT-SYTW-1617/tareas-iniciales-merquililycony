@@ -16,7 +16,8 @@
 
 * [gh-pages](https://ull-esit-sytw-1617.github.io/tareas-iniciales-merquililycony/)
 
-
+**Enlace a Gitbook**
+* [Gitbook](https://edna.gitbooks.io/practica-1/content/)
 
 **Página de los autores**
 
