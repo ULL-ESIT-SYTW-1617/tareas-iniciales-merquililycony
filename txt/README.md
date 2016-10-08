@@ -1,12 +1,12 @@
 # GitBook Boilerplate
 
-# Práctica 1 : Tareas Iniciales. JavaScript. NodeJS. Gulpfile. Gitbook
+# Práctica 1 : Tareas Iniciales. JavaScript. NodeJS. Gulpfile. Gitbook.
 
 # Enlaces :
 
 **Enlace al campus virtual**
 
-* [Enunciado] (https://crguezl.github.io/ull-esit-1617/practicas/practicagitbook.html)
+* [Enunciado](https://crguezl.github.io/ull-esit-1617/practicas/practicagitbook.html)
 
 **Repositorio GitHuB donde se realizó la práctica**
 
