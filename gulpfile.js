@@ -10,7 +10,6 @@ gulp.task('deploy', function () {
 });
 
 
-
 /*gulp.task('prueba',function() {
    return gulp.src('').pipe(shell(['gitbook build `pwd` ./gh-pages']));
 });
