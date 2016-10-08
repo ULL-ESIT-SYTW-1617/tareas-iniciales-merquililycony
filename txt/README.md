@@ -1,21 +1,25 @@
-# Tareas iniciales
+# GitBook Boilerplate
 
-> Guía de como se realizó la práctica 1 " Tareas iniciales".
+# Práctica 1 : Tareas Iniciales. JavaScript. NodeJS. Gulpfile. Gitbook
 
-Hola mundo2
+# Enlaces :
+
+**Enlace al campus virtual**
+
+* [Enunciado] (https://crguezl.github.io/ull-esit-1617/practicas/practicagitbook.html)
+
+**Repositorio GitHuB donde se realizó la práctica**
+
+* [Organización](https://github.com/ULL-ESIT-SYTW-1617/tareas-iniciales-merquililycony)
+
+**Enlace a Gh-pages**
+
+* [gh-pages](https://ull-esit-sytw-1617.github.io/tareas-iniciales-merquililycony/)
 
 
 
+**Página de los autores**
 
-## Live Demo
-
-[Check demo!](http://my-user.github.io/my-repo)
-
-## Background
-
-> [gitbook](http://www.gitbook.io) is used to generate github pages.
-
-## Contributing
-
-1. Create Issue
-2. Fork and PR
+* [Constanza](http://alu0100673647.github.io)
+* [Merquis](http://merquis.github.io)
+* [Liliana](https://alu0100762846.github.io/alu0100762846.gtihub.io/)
