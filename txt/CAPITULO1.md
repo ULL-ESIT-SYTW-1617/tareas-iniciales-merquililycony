@@ -27,6 +27,11 @@
     $ gitbook init
   ~~~
 
+*Para crear los html*
+
+~~~
+  $ gitbook build
+~~~
     **NOTA:
     GitBook permite probar el libro antes de empujarlo a la web con el comando:**
   ~~~
