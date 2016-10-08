@@ -6,7 +6,7 @@ var shell = require('gulp-shell');
 
 
 gulp.task('deploy', function () {
-  return gulp.src('').pipe(shell(["./scripts/deploy-gitbook"]));
+  return gulp.src('').pipe(shell(["./scripts/losh deploy-gitbook"]));
 });
 
 
@@ -26,6 +26,6 @@ gulp.task('pdf',
 
 
 gulp.task('build', function() {
-  return gulp.src('').pipe(shell(['./scripts/generate-gitbook']));
+  return gulp.src('').pipe(shell(['./scripts/losh generate-gitbook']));
 });
 });
