@@ -2,7 +2,7 @@
 
 > Guía de como se realizó la práctica 1 " Tareas iniciales".
 
-Hola mundo1
+Hola mundo2
 
 
 
